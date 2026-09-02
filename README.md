@@ -99,8 +99,8 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ## STM 32 CUBE PROGRAM
 
 
-// Your STM 32 CUBE Program code here
-##Experiment 1(a)
+
+**Experiment1(a)**
 ```
 /* USER CODE BEGIN Header */
 /**
@@ -316,7 +316,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
-##Experiment 1(b)
+**Experiment1(b)**
 ```
 /* USER CODE BEGIN Header */
 /**
@@ -534,15 +534,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-##experiment 1(a):
+**experiment1(a):**
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/059f06e5-4d4a-4267-9734-ec28acfba219" />
 
-##experiment 1(b):
+**experiment1(b):**
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/07295a7f-b6ff-4bc5-a4ed-6893862b589d" />
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/69d05cbe-e898-4fff-92af-e0d0e853b979" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2d4012ef-1410-489f-8bf3-b141d5cf394f" />
 
-
-## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
